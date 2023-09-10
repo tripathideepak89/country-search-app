@@ -26,3 +26,7 @@ GET api/search?name=Philippines
 
 {"name": "Republic of the Philippines", "common": "Philippines"}
 
+## To run the app just run below command
+```
+npm start
+```
